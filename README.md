@@ -177,6 +177,4 @@ Exiting DBMS...
 - **Error Handling**: Implement more robust error handling for invalid commands or edge cases.
 - **Improved Storage**: Implement more advanced storage mechanisms such as B-trees for better performance with large datasets.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
